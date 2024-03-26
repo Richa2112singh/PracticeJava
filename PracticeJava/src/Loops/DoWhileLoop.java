@@ -1,18 +1,20 @@
 package Loops;
 
-public class WhileLoops {
+public class DoWhileLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		int num = 0;
 		
-		while (num<=10) {
+		do {
 			System.out.println(num);
 			num++;
 		}
-		System.out.println("After while loop");
+		while (num<=10) ;
+		System.out.println("oops its end");
 
+		
 	}
 
 }

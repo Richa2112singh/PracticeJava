@@ -48,7 +48,7 @@ public class Methods {
 		Methods obj = new Methods();
 		Methods obj2 = new Methods();
 		obj.test();
-		obj.concat("trt", 'd');
+		obj.concat(" trt ", 'd');
 
 
 	}

@@ -67,6 +67,7 @@ public class variables {
 		boolean cond= !true;
 		System.out.print(cond);       // print -> False
 		System.out.println(true && true);    // using conditionals with boolean
+		System.out.println(true || true);
 		
 	
 		
